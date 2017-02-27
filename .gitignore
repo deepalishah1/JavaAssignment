@@ -1,0 +1,7 @@
+*.iml
+*.class
+*.settings
+*.classpath
+*.project
+/build
+/captures
